@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- a domino mask with two eye holes -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M26,50 C26,39 35,34 46,37 L54,40 L62,37 C73,34 82,39 82,50 C82,61 75,69 66,67 C60,66 58,61 54,61 C50,61 48,66 42,67 C33,69 26,61 26,50 Z M41,52 m-7,0 a7,5 0 1 1 14,0 a7,5 0 1 1 -14,0 M67,52 m-7,0 a7,5 0 1 1 14,0 a7,5 0 1 1 -14,0" />
+    <path android:fillColor="#FFEF4444" android:pathData="M40,82m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path android:fillColor="#FF3B82F6" android:pathData="M68,82m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+</vector>
